@@ -1,9 +1,4 @@
-/*
-  WiFiEsp test: ClientTest
-  http://www.kccistc.net/
-  작성일 : 2022.12.19
-  작성자 : IoT 임베디드 KSH
-*/
+
 #define DEBUG
 #define DEBUG_WIFI
 
